@@ -16,7 +16,7 @@
     "json2xls": "^0.1.2",
     "moment": "^2.24.0",
     "morgan": "~1.9.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/node": "^12.12.7",
